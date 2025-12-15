@@ -1,0 +1,7 @@
+Admissions → apply, admission, accept, requirements
+Fees → fee, tuition, cost, payment, credit
+Academics → GPA, grades, scores
+Academic Advising → advisor, track, course, major
+IT & Systems → portal, Moodle, login
+Emails->email
+General → anything else

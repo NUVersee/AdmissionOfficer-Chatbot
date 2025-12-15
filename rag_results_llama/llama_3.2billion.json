@@ -1,0 +1,116 @@
+[
+    {
+        "query": "hello",
+        "answer": "model='llama3.2' created_at='2025-12-15T14:51:59.3399881Z' done=True done_reason='stop' total_duration=19677566300 load_duration=106257300 prompt_eval_count=1753 prompt_eval_duration=17865922100 eval_count=16 eval_duration=1653889300 message=Message(role='assistant', content=\"Hello! How can I assist you today? What's on your mind?\", thinking=None, images=None, tool_name=None, tool_calls=None)",
+        "sources": [
+            "QA#47 (General)",
+            "QA#46 (Admissions)",
+            "QA#110 (General)",
+            "QA#8 (IT & Systems)",
+            "QA#112 (General)"
+        ],
+        "timestamp": "2025-12-15T16:51:59.340699"
+    },
+    {
+        "query": "how much is a credit hour ?",
+        "answer": "model='llama3.2' created_at='2025-12-15T14:52:32.4832751Z' done=True done_reason='stop' total_duration=16648221700 load_duration=123015800 prompt_eval_count=1604 prompt_eval_duration=10800615000 eval_count=51 eval_duration=5612233700 message=Message(role='assistant', content='At Nile University, a credit hour is equivalent to 34 units. However, please note that this information is governed by official university policies and procedures. For the most accurate and up-to-date information, I recommend consulting the relevant academic or administrative office.', thinking=None, images=None, tool_name=None, tool_calls=None)",
+        "sources": [
+            "QA#72 (Fees)",
+            "QA#5 (Fees)",
+            "QA#166 (Fees)",
+            "QA#156 (Fees)",
+            "QA#26 (Fees)"
+        ],
+        "timestamp": "2025-12-15T16:52:32.484917"
+    },
+    {
+        "query": "How do I rent a theater or conference hall at the university?",
+        "answer": "model='llama3.2' created_at='2025-12-15T17:34:56.5612033Z' done=True done_reason='stop' total_duration=28598595500 load_duration=4241366900 prompt_eval_count=438 prompt_eval_duration=19558214100 eval_count=44 eval_duration=4728353400 message=Message(role='assistant', content='[ID: 113] [Category: General]\\n\\nTo rent a theater or conference hall at Nile University, you can contact Delsafady by sending an email to delsafady@nu.edu.eg.', thinking=None, images=None, tool_name=None, tool_calls=None)",
+        "sources": [
+            "QA#52 (General)",
+            "QA#63 (General)",
+            "QA#113 (General)",
+            "QA#115 (General)",
+            "QA#100 (General)"
+        ],
+        "timestamp": "2025-12-15T19:34:56.564283"
+    },
+    {
+        "query": "now i am a new student in nile univerisity and i need to apply for computer science so can you help be step by step",
+        "answer": "model='llama3.2' created_at='2025-12-15T17:38:06.954039Z' done=True done_reason='stop' total_duration=59065676800 load_duration=251110200 prompt_eval_count=821 prompt_eval_duration=29130190000 eval_count=254 eval_duration=28979044600 message=Message(role='assistant', content='Congratulations on your admission to Nile University! I\\'d be happy to guide you through the process of renting a theater or conference hall.\\n\\nAs a new student, please follow these steps:\\n\\n1. **Check your university email**: You should have received an official welcome message from the university.\\n2. **Visit the Student Portal**: Log in to the Student Portal using your credentials.\\n3. **Click on \"Services\"**: From the navigation menu, select \"Services\".\\n4. **Select \"Event Services\"**: Choose the option for renting a theater or conference hall.\\n5. **Fill out the application form**: Provide required information, such as date, time, and expected number of guests.\\n6. **Upload required documents**: You may need to attach supporting documents, like your student ID, proof of payment, etc.\\n7. **Submit your request**: Review and submit your application for approval.\\n\\nPlease note that you can also contact the Event Services office directly via email at [eventservices@nu.edu.eg](mailto:eventservices@nu.edu.eg) or through the university\\'s general inquiry number.\\n\\nBefore proceeding, please confirm if you have already checked the available dates and times on our website. If you need any assistance or clarification, feel free to ask!', thinking=None, images=None, tool_name=None, tool_calls=None)",
+        "sources": [
+            "QA#23 (Admissions)",
+            "QA#177 (Admissions)",
+            "QA#180 (Admissions)",
+            "QA#64 (Admissions)",
+            "QA#57 (Admissions)"
+        ],
+        "timestamp": "2025-12-15T19:38:06.957413"
+    },
+    {
+        "query": "now i am a new student in nile univerisity and i need to apply for computer science so can you help be step by step",
+        "answer": "model='llama3.2' created_at='2025-12-15T17:40:55.5749374Z' done=True done_reason='stop' total_duration=52335847400 load_duration=235078400 prompt_eval_count=655 prompt_eval_duration=21897724200 eval_count=264 eval_duration=29746138800 message=Message(role='assistant', content='Welcome to Nile University, ID 180! Congratulations on your decision to pursue Computer Science at NU.\\n\\nTo guide you through the process, I\\'ll provide a step-by-step guide:\\n\\n1. **Check the Academic Calendar**: Ensure you understand the course withdrawal period and deadlines for adding or dropping courses.\\n2. **Log in to Your Student Portal**: Go to [nu.edu.eg](http://nu.edu.eg) and log in with your student credentials.\\n3. **Click on \"Academic Services\"**: From your portal, navigate to \"Academic Services\" > \"Course Registration\".\\n4. **Search for Computer Science Courses**: Browse the available courses and select the ones you\\'d like to take.\\n5. **Add/Drop Courses**: Follow the instructions to add or drop courses. If you need help, contact the Admissions Office via email at [admissions@nu.edu.eg](mailto:admissions@nu.edu.eg).\\n6. **Meet with an Advisor (Optional)**: Schedule a meeting with your academic advisor to discuss course selection and any concerns.\\n7. **Submit Your Request**: Once you\\'ve added or dropped courses, submit your request through the online portal.\\n\\nIf you need further assistance or have questions, feel free to ask! Our Admissions Office is here to help.', thinking=None, images=None, tool_name=None, tool_calls=None)",
+        "sources": [
+            "QA#64 (Admissions)",
+            "QA#177 (Admissions)",
+            "QA#57 (Admissions)",
+            "QA#23 (Admissions)",
+            "QA#180 (Admissions)"
+        ],
+        "timestamp": "2025-12-15T19:40:55.579116"
+    },
+    {
+        "query": "hii",
+        "answer": "Hello! Welcome to Nile University's online support system. I'd be happy to help you with any questions or concerns you may have about our programs, courses, or application process. How can I assist you today?",
+        "sources": [],
+        "timestamp": "2025-12-15T19:52:22.247167"
+    },
+    {
+        "query": "hello",
+        "answer": "model='llama3.2' created_at='2025-12-15T17:53:10.6406717Z' done=True done_reason='stop' total_duration=28784984100 load_duration=235553200 prompt_eval_count=782 prompt_eval_duration=26356660000 eval_count=19 eval_duration=2154427800 message=Message(role='assistant', content=\"Hello! Welcome to Nile University's Admissions Office. How can I assist you today?\", thinking=None, images=None, tool_name=None, tool_calls=None)",
+        "sources": [
+            "QA#46 (Admissions)",
+            "QA#110 (General)",
+            "QA#112 (General)",
+            "QA#47 (General)",
+            "QA#8 (IT & Systems)"
+        ],
+        "timestamp": "2025-12-15T19:53:10.643989"
+    },
+    {
+        "query": "now i am a new student in nile univerisity and i need to apply for computer science so can you help be step by step",
+        "answer": "model='llama3.2' created_at='2025-12-15T17:54:31.841058Z' done=True done_reason='stop' total_duration=52688051800 load_duration=284230100 prompt_eval_count=780 prompt_eval_duration=26741743600 eval_count=223 eval_duration=25275651800 message=Message(role='assistant', content=\"I'd be happy to help you through the application process for Computer Science at Nile University.\\n\\nTo start, I'll guide you through the first steps:\\n\\n1. **Visit our official website**: Go to [https://admission.study-in-egypt.gov.eg/](https://admission.study-in-egypt.gov.eg/) (as foreign students) or [https://www.nu.edu.eg](https://www.nu.edu.eg) (as Nile University students).\\n2. **Choose your program**: Select Computer Science as your desired program.\\n3. **Create an account**: If you don't already have one, create a new account on our website.\\n4. **Fill out the application form**: Complete the online application form with all required details.\\n\\nBefore proceeding, can you please confirm if you are:\\n\\n- A foreign student applying through https://admission.study-in-egypt.gov.eg/\\n- A Nile University student already enrolled in another program and want to add Computer Science?\\nLet me know, and I'll provide the next steps tailored to your situation!\", thinking=None, images=None, tool_name=None, tool_calls=None)",
+        "sources": [
+            "QA#180 (Admissions)",
+            "QA#23 (Admissions)",
+            "QA#177 (Admissions)",
+            "QA#57 (Admissions)",
+            "QA#64 (Admissions)"
+        ],
+        "timestamp": "2025-12-15T19:54:31.844369"
+    },
+    {
+        "query": "now i am a new student in nile univerisity and i need to apply for computer science so can you help be step by step",
+        "answer": "model='llama3.2' created_at='2025-12-15T17:57:36.6241361Z' done=True done_reason='stop' total_duration=55182621800 load_duration=225148100 prompt_eval_count=655 prompt_eval_duration=21800851900 eval_count=291 eval_duration=32474323200 message=Message(role='assistant', content='Hello [ID: 180]!\\n\\n Congratulations on your acceptance to Nile University! I\\'d be happy to guide you through the process of applying to the Computer Science program.\\n\\nHere\\'s a step-by-step guide:\\n\\n1. **Ensure you have all required documents**: Double-check that you have scanned copies of your transcripts, certificates, and other necessary documents.\\n2. **Visit the official website**: Go to [https://admission.study-in-egypt.gov.eg/](https://admission.study-in-egypt.gov.eg/) (as we discussed earlier) and click on \"Apply\" at the top right corner.\\n3. **Fill out the application form**: Fill in all the required information, including your personal details, academic background, and language proficiency (if applicable).\\n4. **Choose Computer Science as your program**: Make sure you select the correct department: Faculty of Computing and Information Technology, Department of Computer Science.\\n5. **Submit your documents**: Upload scanned copies of your documents, following the instructions provided on the website.\\n6. **Pay the non-refundable application fee (1500 EGP)**: Once you\\'ve filled out the form, proceed to pay the fee using a valid payment method.\\n7. **Wait for review and assessment**: The admissions team will review your application and assess your qualifications.\\n\\nNext step?\\n\\nWould you like me to walk you through the language proficiency section or help with something else?', thinking=None, images=None, tool_name=None, tool_calls=None)",
+        "sources": [
+            "QA#180 (Admissions)",
+            "QA#23 (Admissions)",
+            "QA#64 (Admissions)",
+            "QA#177 (Admissions)",
+            "QA#57 (Admissions)"
+        ],
+        "timestamp": "2025-12-15T19:57:36.627517"
+    },
+    {
+        "query": "now i am a new student in nile univerisity and i need to apply for computer science so can you help be step by step",
+        "answer": "model='llama3.2' created_at='2025-12-15T18:04:44.3100865Z' done=True done_reason='stop' total_duration=61087051800 load_duration=3067285500 prompt_eval_count=655 prompt_eval_duration=28370228100 eval_count=259 eval_duration=29181475800 message=Message(role='assistant', content=\"Welcome to Nile University, [ID: 180]!\\n\\nI'd be happy to guide you through the application process for Computer Science. Here's a step-by-step guide:\\n\\n**Step 1: Meet the Eligibility Criteria**\\nEnsure you meet the admission requirements for Computer Science at Nile University.\\n\\n**Step 2: Gather Required Documents**\\nCollect the following documents:\\n- Your transcripts\\n- English proficiency test scores (if required)\\n- Any other supporting documents as per university guidelines\\n\\n**Step 3: Fill Out the Application Form**\\nVisit our official website ([https://admission.study-in-egypt.gov.eg/](https://admission.study-in-egypt.gov.eg/)) and fill out the online application form for Computer Science.\\n\\n**Step 4: Upload Required Documents**\\nUpload your documents as per the requirements mentioned in the application guidelines.\\n\\n**Step 5: Submit Your Application**\\nSubmit your application through our website.\\n\\n**Step 6: Apply for English Test (if required)**\\nIf you haven't taken an English proficiency test, we'll send you the details to register and take the test. The test fee is around 500 EGP, which will be refunded after you complete the course.\\n\\nDo you need help with any of these steps?\", thinking=None, images=None, tool_name=None, tool_calls=None)",
+        "sources": [
+            "QA#177 (Admissions)",
+            "QA#180 (Admissions)",
+            "QA#64 (Admissions)",
+            "QA#57 (Admissions)",
+            "QA#23 (Admissions)"
+        ],
+        "timestamp": "2025-12-15T20:04:44.313160"
+    }
+]
