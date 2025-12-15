@@ -1,0 +1,1214 @@
+[
+  {
+    "id": 1,
+    "category": "Academic Advising",
+    "question": "How to know the required courses in my track?",
+    "answer": "You can check your required courses through the nu student portal. once you log in, go to 'my track' or 'study plan' — it will show all the courses you need to complete for your major.. For Nile University students, this information is governed by official university policies and procedures. Students are advised to follow the formal process announced by the university and consult the relevant academic or administrative office when clarification is needed."
+  },
+  {
+    "id": 2,
+    "category": "Academic Advising",
+    "question": "How to know my advisor?",
+    "answer": "You can find your assigned academic advisor in the NU Student self service in profile section ."
+  },
+  {
+    "id": 3,
+    "category": "Academics",
+    "question": "what is meant by GPA?",
+    "answer": "GPA stands for Grade Point Average. It’s a number that represents your overall academic performance. The higher your GPA, the better your grades are!"
+  },
+  {
+    "id": 4,
+    "category": "Academics",
+    "question": "what is the difference between overall gpa and CGPA?",
+    "answer": "Your GPA is your average for one semester only, while your CGPA (Cumulative GPA) includes all the grades from every semester since you joined the university. So, CGPA shows your overall academic performance, not just one term"
+  },
+  {
+    "id": 5,
+    "category": "Fees",
+    "question": "what is meant by credit hour system?",
+    "answer": "Each course has a certain number of credit hours that reflect how much time you’ll spend in class. Your tuition fees and GPA are calculated based on these credit hours."
+  },
+  {
+    "id": 6,
+    "category": "General",
+    "question": "when can we recieve our ID?",
+    "answer": "You can receive the ID at the beginning of the semester"
+  },
+  {
+    "id": 7,
+    "category": "General",
+    "question": "how to obtain a new ID if my ID is lost?",
+    "answer": "You can request from the library"
+  },
+  {
+    "id": 8,
+    "category": "IT & Systems",
+    "question": "what is meant by \"moodle\"?",
+    "answer": "Moodle is nile university’s online learning platform. you’ll use it to access course materials, submit assignments, take quizzes, and check announcements from your instructors. basically, it’s your digital classroom at nu!. For Nile University students, this information is governed by official university policies and procedures. Students are advised to follow the formal process announced by the university and consult the relevant academic or administrative office when clarification is needed."
+  },
+  {
+    "id": 9,
+    "category": "General",
+    "question": "Why I need to install outlook ?",
+    "answer": "You need to install Outlook because it’s the official email platform for Nile University students. All university announcements, instructor messages, and course updates are sent through your NU Outlook email — so it helps you stay connected and never miss important information!"
+  },
+  {
+    "id": 10,
+    "category": "General",
+    "question": "How to make my schedule?",
+    "answer": "In your first semester, your schedule will be assigned automatically and shown on your Self-Service account. Starting from the following semesters, the available course blocks will be uploaded, and you’ll get to choose the one that best fits your timetable and preferences."
+  },
+  {
+    "id": 11,
+    "category": "Fees",
+    "question": "what are the required total credits I need to finish to graduate?",
+    "answer": "The total number of credits required to graduate from Nile University depends on your major, but most undergraduate programs require between 130 and 136 credits."
+  },
+  {
+    "id": 12,
+    "category": "General",
+    "question": "if I'm having financial issues who do I contact?",
+    "answer": "You can contact the finance office for support. just send an email to financialinquiries@nu.edu.eg. For Nile University students, this information is governed by official university policies and procedures. Students are advised to follow the formal process announced by the university and consult the relevant academic or administrative office when clarification is needed."
+  },
+  {
+    "id": 13,
+    "category": "General",
+    "question": "if I'm having issues with my schedule  who do I contact?",
+    "answer": "You can contact your advisor. For Nile University students, this information is governed by official university policies and procedures. Students are advised to follow the formal process announced by the university and consult the relevant academic or administrative office when clarification is needed."
+  },
+  {
+    "id": 14,
+    "category": "IT & Systems",
+    "question": "if I'm having issues with moodle login  who do I contact?",
+    "answer": "You can contact the it. For Nile University students, this information is governed by official university policies and procedures. Students are advised to follow the formal process announced by the university and consult the relevant academic or administrative office when clarification is needed."
+  },
+  {
+    "id": 15,
+    "category": "General",
+    "question": "where do i find the uploaded lectures and assignments?",
+    "answer": "You can find it in moodle. For Nile University students, this information is governed by official university policies and procedures. Students are advised to follow the formal process announced by the university and consult the relevant academic or administrative office when clarification is needed."
+  },
+  {
+    "id": 16,
+    "category": "General",
+    "question": "what is meant by office hours and how to determine it ?",
+    "answer": "Office hours are specific times when your professors are available to meet with students outside of class. you can use this time to ask questions, get feedback, or discuss course material. each instructor usually announces their office hours on moodle or during the first week of classes. For Nile University students, this information is governed by official university policies and procedures. Students are advised to follow the formal process announced by the university and consult the relevant academic or administrative office when clarification is needed."
+  },
+  {
+    "id": 17,
+    "category": "General",
+    "question": "How do I know when my midterms and finals start?",
+    "answer": "There will be an annoucments at outlook and documents uploaded at portal. For Nile University students, this information is governed by official university policies and procedures. Students are advised to follow the formal process announced by the university and consult the relevant academic or administrative office when clarification is needed."
+  },
+  {
+    "id": 18,
+    "category": "General",
+    "question": "what is meant by financial aids?",
+    "answer": "Financial aid is support given by the university to students whose families are facing financial difficulties. It helps reduce tuition fees based on the family’s financial situation. When you apply for financial aid, you’ll need to provide documents that show your parents’ or guardian’s income so the university can assess your eligibility"
+  },
+  {
+    "id": 19,
+    "category": "General",
+    "question": "what are the university clubs?",
+    "answer": "Nile University has a wide range of student clubs that suit different interests and talents. Some of the popular ones include TEDxNU, Google Developer Student Club (GDSC), ICPC Programming Club, Art Club, Sports Club, Music Club, Media Club, and Entrepreneurship Club. These clubs organize events, workshops, and activities throughout the year — they’re a great way to learn new skills, make friends, and enjoy university life!"
+  },
+  {
+    "id": 20,
+    "category": "General",
+    "question": "what is the role of the SU?",
+    "answer": "The SU, or Student Union, represents all Nile University students and acts as a bridge between students and the university administration. Their role is to make sure student voices are heard, organize events and activities, and help create a fun, supportive, and engaging campus environment. They’re basically the student leaders who work to make your NU experience even better!"
+  },
+  {
+    "id": 21,
+    "category": "General",
+    "question": "what is meant meant by SEEC office?",
+    "answer": ". It’s responsible for managing all student activities, clubs, and events at Nile University. Besides that, SEEC also helps students find internship opportunities and connect with companies or organizations to gain real-world experience. It’s the perfect place to go if you want to get involved on campus and build your career skills at the same time!"
+  },
+  {
+    "id": 22,
+    "category": "General",
+    "question": "what is the difference between drop and withdraw?",
+    "answer": "The difference between drop and withdraw is mainly about timing and how it appears on your record. When you drop a course early in the semester (during the add/drop period), it’s completely removed from your schedule and doesn’t appear on your transcript or affect your GPA. But when you withdraw from a course after the drop period, it stays on your transcript with a ‘W’ grade — it doesn’t affect your GPA, but it will be visible on your academic record."
+  },
+  {
+    "id": 23,
+    "category": "Admissions",
+    "question": "what is the system of the withdraw and how to apply for it?",
+    "answer": "The course withdrawal system allows you to officially drop a course during the designated withdrawal period mentioned in the academic calendar. to apply, you need to fill out the online withdrawal form.note: you can only submit a withdrawal request during the official period listed in the academic calendar, so make sure to check the dates before applying.. For Nile University students, this information is governed by official university policies and procedures. Students are advised to follow the formal process announced by the university and consult the relevant academic or administrative office when clarification is needed."
+  },
+  {
+    "id": 24,
+    "category": "General",
+    "question": "what is meant by the SU elections?",
+    "answer": "SU elections\" mean the Student Union elections. It’s when students vote to choose their representatives in the Student Union — the group that speaks on behalf of students, organizes activities and events, and helps improve student life at the university."
+  },
+  {
+    "id": 25,
+    "category": "General",
+    "question": "what is meant by minor and what are its types?",
+    "answer": "A minor is a secondary field of study you can choose alongside your main major to gain extra knowledge or skills in another area. It helps you broaden your learning and make your degree more diverse"
+  },
+  {
+    "id": 26,
+    "category": "Fees",
+    "question": "what is the minimum amount of credits do I need for taking the GPA 4 merit scholarships?",
+    "answer": "Not less than 25 creedit hours"
+  },
+  {
+    "id": 27,
+    "category": "General",
+    "question": "What is meant by Nile enterpreneurs and what are their roles?",
+    "answer": "Nile Entrepreneurs is a center at Nile University that supports students, graduates, and startups in developing their business ideas and turning them into real projects. Their role is to provide training, mentorship, funding opportunities, and networking connections with investors and industry experts."
+  },
+  {
+    "id": 28,
+    "category": "General",
+    "question": "what are the competitions and achievements that can provide scholarships?",
+    "answer": "Nile University offers scholarships and financial support for outstanding students who achieve exceptional results in recognized competitions. These include national and international STEM competitions, school academic excellence awards, and achievements in fields such as science, engineering, technology, research, and innovation. Students who win or rank highly in competitions like the Egyptian Engineering Day (EED), IRO/IYMC, Intel/ISEF science fairs, robotics competitions, programming contests, or similar national Olympiads may become eligible for partial or full scholarships. The university also considers achievements in sports, community service, entrepreneurship competitions, and research participation."
+  },
+  {
+    "id": 29,
+    "category": "General",
+    "question": "what is meant by CIS research center?",
+    "answer": "The CIS Research Center stands for the Center for Informatics Science at Nile University. It’s one of the main research centers that focuses on advanced studies in areas like artificial intelligence, data science, machine learning, and computer vision. The center works on national and international research projects and gives students opportunities to join research teams, gain hands-on experience, and contribute to real-world innovations"
+  },
+  {
+    "id": 30,
+    "category": "General",
+    "question": "Can I take a crucial role in more than one club like  vice president in one club and president in another one?",
+    "answer": "No. For Nile University students, this information is governed by official university policies and procedures. Students are advised to follow the formal process announced by the university and consult the relevant academic or administrative office when clarification is needed."
+  },
+  {
+    "id": 31,
+    "category": "General",
+    "question": "What is meant by exchange program?",
+    "answer": "An exchange program allows Nile University students to study abroad at a partner university for a semester or more while still earning credits toward their NU degree. It’s a great opportunity to experience a new culture, learn different teaching styles, and build international connections — all while continuing your academic journey at Nile University"
+  },
+  {
+    "id": 32,
+    "category": "General",
+    "question": "Does the university provide internships?",
+    "answer": "Yes, Nile University helps students find internship opportunities through the SEEC Office and various faculty connections. The university collaborates with many companies, startups, and organizations to offer students hands-on training related to their field of study"
+  },
+  {
+    "id": 33,
+    "category": "IT & Systems",
+    "question": "what is github student pack that is provided by the university emails?",
+    "answer": "The GitHub Student Developer Pack is a special collection of free tools and premium software provided by GitHub to students. By using your Nile University email, you can access the pack and unlock benefits such as free cloud services, private GitHub repositories, design tools, developer platforms, AI tools, and educational resources that are usually paid. It helps you build projects, learn new technologies, and gain real industry-level experience at no cost."
+  },
+  {
+    "id": 34,
+    "category": "General",
+    "question": "what is Nile university app?",
+    "answer": "The nile university app is a mobile app that helps you manage your student life easily. you can use it to check your schedule, grades, announcements, attendance, and upcoming events. it also includes your digital student id, so you can access university services or campus facilities without needing your physical card. For Nile University students, this information is governed by official university policies and procedures. Students are advised to follow the formal process announced by the university and consult the relevant academic or administrative office when clarification is needed."
+  },
+  {
+    "id": 35,
+    "category": "Academic Advising",
+    "question": "what is the grading schema  of courses(A,B,C,D,F)?",
+    "answer": "The grading scheme at Nile University uses letter grades to evaluate your performance in each course. The main grades are A for Excellent, B for Very Good, C for Good, D for Pass, and F for Fail"
+  },
+  {
+    "id": 36,
+    "category": "Academics",
+    "question": "do summer courses is added to the CGPA?",
+    "answer": "Yes. For Nile University students, this information is governed by official university policies and procedures. Students are advised to follow the formal process announced by the university and consult the relevant academic or administrative office when clarification is needed."
+  },
+  {
+    "id": 37,
+    "category": "Admissions",
+    "question": "When are the requirements for taking overload?",
+    "answer": "you must have a strong academic standing, usually with a minimum GPA of around 3.0 or higher,"
+  },
+  {
+    "id": 38,
+    "category": "General",
+    "question": "what is meant by incomplete?",
+    "answer": "An Incomplete (I) is a temporary grade given when you can’t finish a course due to a valid excuse. You’re given extra time to complete the missing work. Once you submit it, the grade is updated; if you don’t, it may turn into an F."
+  },
+  {
+    "id": 39,
+    "category": "Academics",
+    "question": "how to get my final grade?",
+    "answer": "You can found It at self service"
+  },
+  {
+    "id": 40,
+    "category": "General",
+    "question": "how to get incomplete form?",
+    "answer": "You can get it from portal. For Nile University students, this information is governed by official university policies and procedures. Students are advised to follow the formal process announced by the university and consult the relevant academic or administrative office when clarification is needed."
+  },
+  {
+    "id": 41,
+    "category": "IT & Systems",
+    "question": "what is meant by portal?",
+    "answer": "The portal is the online system where you can find and download all the important documents you might need, such as registration forms, medical excuse forms, or financial aid applications.. For Nile University students, this information is governed by official university policies and procedures. Students are advised to follow the formal process announced by the university and consult the relevant academic or administrative office when clarification is needed."
+  },
+  {
+    "id": 42,
+    "category": "Academic Advising",
+    "question": "how can I get the school tree and academic plan?",
+    "answer": "You can found it at portal. For Nile University students, this information is governed by official university policies and procedures. Students are advised to follow the formal process announced by the university and consult the relevant academic or administrative office when clarification is needed."
+  },
+  {
+    "id": 43,
+    "category": "Academic Advising",
+    "question": "what are the available tracks for CS?",
+    "answer": "Big data,biomedical informatics and General"
+  },
+  {
+    "id": 44,
+    "category": "Admissions",
+    "question": "How to apply to be an ambassador?",
+    "answer": "To apply for the NU Ambassador Program, you need to wait for the official announcement from the Student Affairs or Admissions Office. They usually share a form for applications."
+  },
+  {
+    "id": 45,
+    "category": "General",
+    "question": "Where can I print paper in the university?",
+    "answer": "You can go to the library"
+  },
+  {
+    "id": 46,
+    "category": "Admissions",
+    "question": "What is meant by junior teacher assistant and junior research assistant and how to apply for them?",
+    "answer": "A junior teacher assistant (junior ta) is a student who helps instructors during labs or tutorials by answering students’ questions, assisting with exercises, and supporting the teaching process. a junior research assistant (junior ra) helps a professor with research tasks such as collecting data, reading papers, running experiments, or writing small parts of a research project. to apply for either role, you usually talk to the course instructor or professor directly, send a short email expressing your interest, or check if the department posts an application form. a simple email with your name, the course you excelled in, and your willingness to help is usually enough to get started.. For Nile University students, this information is governed by official university policies and procedures. Students are advised to follow the formal process announced by the university and consult the relevant academic or administrative office when clarification is needed."
+  },
+  {
+    "id": 47,
+    "category": "IT & Systems",
+    "question": "If there is an issue with my account like its hacked, who should I talk to?",
+    "answer": "You can contact itsupport@nu.edu.eg. For Nile University students, this information is governed by official university policies and procedures. Students are advised to follow the formal process announced by the university and consult the relevant academic or administrative office when clarification is needed."
+  },
+  {
+    "id": 48,
+    "category": "General",
+    "question": "What can I take Military Education and is it required?",
+    "answer": "Military Education is a mandatory requirement for all male students in Egyptian universities. You must complete it before graduating"
+  },
+  {
+    "id": 49,
+    "category": "General",
+    "question": "If I want to talk to someone about the car garage, who should I ask?",
+    "answer": "For any questions related to the car garage, parking permissions, or access, you should contact the security office on campus. they are responsible for handling parking and garage-related matters.. For Nile University students, this information is governed by official university policies and procedures. Students are advised to follow the formal process announced by the university and consult the relevant academic or administrative office when clarification is needed."
+  },
+  {
+    "id": 50,
+    "category": "General",
+    "question": "If I want to ask about the bus system who should I ask?",
+    "answer": "For inquiries about the bus system, routes, schedules, or fees, you should contact the transportation office , as they coordinate bus services for students. For Nile University students, this information is governed by official university policies and procedures. Students are advised to follow the formal process announced by the university and consult the relevant academic or administrative office when clarification is needed."
+  },
+  {
+    "id": 51,
+    "category": "Academics",
+    "question": "what is the midterm and final evaluation?",
+    "answer": "The midterm and final evaluations are feedback forms that students fill out before the exams. Their purpose is to rate the teaching assistants (TAs), professors, and classrooms for each course. These evaluations help the university improve the learning experience by identifying what’s going well and what needs to be enhanced in teaching and facilities."
+  },
+  {
+    "id": 52,
+    "category": "General",
+    "question": "If I want to create a new club who should I ask?",
+    "answer": "You usually need to get approval from the Student Union (SU) or the Student Activities Office"
+  },
+  {
+    "id": 53,
+    "category": "Academics",
+    "question": "If there is an issue with the final / mid schedule who should I talk to?",
+    "answer": "You can talk with your college representive"
+  },
+  {
+    "id": 54,
+    "category": "General",
+    "question": "How to enter to the \"Students\" network ?",
+    "answer": "You can enter your NU email and password"
+  },
+  {
+    "id": 55,
+    "category": "General",
+    "question": "what are the procedures of the medical excuse?",
+    "answer": "F you’re sick and need to submit a medical excuse, you should bring an official medical report from an approved hospital or clinic. submit it to the  student portal so it can be reviewed and approved. once accepted, your absence will be marked as excused in the system.. For Nile University students, this information is governed by official university policies and procedures. Students are advised to follow the formal process announced by the university and consult the relevant academic or administrative office when clarification is needed."
+  },
+  {
+    "id": 56,
+    "category": "General",
+    "question": "Where is Nile University located?",
+    "answer": "Nile University is located in Sheikh Zayed City, Giza. It’s in a calm area, close to many cafes, malls, and public transport options."
+  },
+  {
+    "id": 57,
+    "category": "Admissions",
+    "question": "How can I apply to Nile University?",
+    "answer": "You can apply online through NU’s official website. Just fill out the application form, upload your documents, and follow the instructions — it’s super easy!"
+  },
+  {
+    "id": 58,
+    "category": "Admissions",
+    "question": "What are the admission requirements?",
+    "answer": "You’ll need your high school certificate (IGCSE, Thanaweya Amma, or equivalent), a copy of your ID or passport, and the application form."
+  },
+  {
+    "id": 59,
+    "category": "Admissions",
+    "question": "When does admission open?",
+    "answer": "Admissions usually open around june or july for the fall semester. it’s best to check nu’s website or social media for exact dates!. For Nile University students, this information is governed by official university policies and procedures. Students are advised to follow the formal process announced by the university and consult the relevant academic or administrative office when clarification is needed."
+  },
+  {
+    "id": 60,
+    "category": "Fees",
+    "question": "Does Nile University offer scholarships?",
+    "answer": "Yes! NU offers several scholarships for top students, achievers, and those with financial needs. You can apply for scholarships during your admission process."
+  },
+  {
+    "id": 61,
+    "category": "Fees",
+    "question": "How much are the tuition fees?",
+    "answer": "Tuition fees vary by program, but NU offers competitive rates and flexible payment plans."
+  },
+  {
+    "id": 62,
+    "category": "General",
+    "question": "Is there student housing at Nile University?",
+    "answer": "Unfortunetly,no.. For Nile University students, this information is governed by official university policies and procedures. Students are advised to follow the formal process announced by the university and consult the relevant academic or administrative office when clarification is needed."
+  },
+  {
+    "id": 63,
+    "category": "General",
+    "question": "What facilities are available on campus?",
+    "answer": "NU has modern classrooms, labs, a big library, sports areas, cafeterias, and co-working spaces for students to relax and study."
+  },
+  {
+    "id": 64,
+    "category": "Admissions",
+    "question": "How can I contact the Admissions Office?",
+    "answer": "You can reach the admissions office via email at admissions@nu.edu.eg or call them directly through the contact numbers listed on the nu website.. For Nile University students, this information is governed by official university policies and procedures. Students are advised to follow the formal process announced by the university and consult the relevant academic or administrative office when clarification is needed."
+  },
+  {
+    "id": 65,
+    "category": "General",
+    "question": "Are there student clubs and activities?",
+    "answer": "Definitely! NU has many active clubs like TEDx, Google Developer Student Club, ICPC, art and sports clubs — you can join any that match your interests."
+  },
+  {
+    "id": 66,
+    "category": "General",
+    "question": "Does NU provide transportation?",
+    "answer": "Yes, there are transportation services covering different areas in Cairo and Giza. You can subscribe at the Transportation Office or online."
+  },
+  {
+    "id": 67,
+    "category": "General",
+    "question": "What makes Nile University special?",
+    "answer": "NU focuses on innovation, research, and community impact. Plus, you’ll find a very friendly and supportive student environment!"
+  },
+  {
+    "id": 68,
+    "category": "Admissions",
+    "question": "Can I visit the campus before applying?",
+    "answer": "Of course! You can visit NU’s campus in Sheikh Zayed anytime during working hours. It’s a great way to get a feel of the place before applying."
+  },
+  {
+    "id": 69,
+    "category": "Admissions",
+    "question": "Can I apply for both a scholarship and financial aid?",
+    "answer": "Yes, you can apply for both. Scholarships are usually based on academic excellence, while financial aid is based on your family’s financial situation."
+  },
+  {
+    "id": 70,
+    "category": "Admissions",
+    "question": "How will I know if I got accepted?",
+    "answer": "Yes, you can request to change your major after your first semester, but it depends on your GPA and the availability in the program you want to switch to."
+  },
+  {
+    "id": 71,
+    "category": "Academic Advising",
+    "question": "Can I change my major after joining the university?",
+    "answer": "After you apply, you’ll receive an email from the Admissions Office once your application has been reviewed. If you’re accepted, you’ll get an official offer letter with the next steps for enrollment and payment"
+  },
+  {
+    "id": 72,
+    "category": "Fees",
+    "question": "How much is the credit hours?",
+    "answer": "3340. For Nile University students, this information is governed by official university policies and procedures. Students are advised to follow the formal process announced by the university and consult the relevant academic or administrative office when clarification is needed."
+  },
+  {
+    "id": 73,
+    "category": "General",
+    "question": "Is there medical insurance provided by the university?",
+    "answer": "Unfortunately, no, the university does not provide medical insurance. However, there is a medical clinic on campus that offers treatment and support for all students."
+  },
+  {
+    "id": 74,
+    "category": "Academics",
+    "question": "Does the university offer a work-study program for students?",
+    "answer": "Yes, the university offers several work-study opportunities. Students can work in areas such as photography, event operations, and as NU ambassadors, among other roles."
+  },
+  {
+    "id": 75,
+    "category": "Academics",
+    "question": "Does my GPA affect my financial aid?",
+    "answer": "No, your GPA does not affect your financial aid."
+  },
+  {
+    "id": 76,
+    "category": "Academics",
+    "question": "If I encounter a problem with a TA or a doctor, where should I go?",
+    "answer": "You can report any issue to your course coordinator. If needed, you can also escalate it to the Head of Department (HoD) or major head professor."
+  },
+  {
+    "id": 77,
+    "category": "Fees",
+    "question": "Do the tuition fees change across the years?",
+    "answer": "Yes, tuition fees increase annually, usually by 12% to 15%."
+  },
+  {
+    "id": 78,
+    "category": "Academics",
+    "question": "Does a good GPA offer me additional discounts?",
+    "answer": "Yes, some merit-based discounts or scholarships may be available for students with high GPAs, depending on university policies."
+  },
+  {
+    "id": 79,
+    "category": "Admissions",
+    "question": "If I need to take a sick leave, how do I apply and what happens to my academic work?",
+    "answer": "If you have an approved medical excuse, your sick leave will be accepted. After recovering, you will be given a specific period of time to submit your pending assignments, exams, or coursework."
+  },
+  {
+    "id": 80,
+    "category": "General",
+    "question": "Is there collaboration between the university and other universities or institutions abroad?",
+    "answer": "Yes, Nile University has multiple collaborations with international universities and major companies. Partnerships include CIB Bank (Business), Dell, Microsoft, Valeo (Technology), and Baheya Hospital (Medical), among others."
+  },
+  {
+    "id": 81,
+    "category": "Academics",
+    "question": "Does the university support research and help students publish their papers?",
+    "answer": "Yes. Nile University strongly supports research. The university originally began as a research center, and it continues to offer technical, academic, and publication support for students and researchers."
+  },
+  {
+    "id": 82,
+    "category": "Academics",
+    "question": "What GPA do I need to achieve the Dean’s Honor List?",
+    "answer": "You need a minimum GPA of 3.8."
+  },
+  {
+    "id": 83,
+    "category": "Academics",
+    "question": "What GPA do I need to become a TA at the university?",
+    "answer": "To qualify as a Teaching Assistant, students generally need a high GPA, often above 3.5, depending on the school and department requirements."
+  },
+  {
+    "id": 84,
+    "category": "Academics",
+    "question": "Is there a Junior TA program at the university?",
+    "answer": "Yes, Nile University offers a Junior TA Program, where outstanding students are selected to assist instructors, gain teaching experience, and support academic activities."
+  },
+  {
+    "id": 85,
+    "category": "General",
+    "question": "Are university clubs only for fun, or are there clubs that support academic fields as well?",
+    "answer": "University clubs include both fun/social clubs and academic/professional clubs. Some clubs focus on entertainment and student life, while others support fields such as engineering, business, research, technology, and entrepreneurship."
+  },
+  {
+    "id": 86,
+    "category": "General",
+    "question": "Is there a student counseling center?",
+    "answer": "Nile University in Egypt offers a confidential student counseling center that supports students with academic, personal, and mental health challenges, providing guidance, counseling, and well-being programs."
+  },
+  {
+    "id": 87,
+    "category": "Admissions",
+    "question": "What are the admission requirements for master’s programs?",
+    "answer": "To apply for a master’s program, you must submit your bachelor’s degree certificate, official transcripts, national ID/passport, and any program-specific documents listed by the university. Applicants also need to meet the minimum academic and English-language requirements outlined in the admissions guidelines."
+  },
+  {
+    "id": 88,
+    "category": "Admissions",
+    "question": "How do I apply as an international student?",
+    "answer": "International applicants follow the same application steps as local students but must upload their passport, equivalent certificates, and authenticated academic documents."
+  },
+  {
+    "id": 89,
+    "category": "Admissions",
+    "question": "Can I apply if I haven’t completed my bachelor’s degree yet?",
+    "answer": "Applications are generally accepted only after completing the bachelor’s degree and providing proof of graduation. Students in their final semester must wait until their certificate or temporary graduation letter is issued."
+  },
+  {
+    "id": 90,
+    "category": "Academics",
+    "question": "Are there part-time or online master’s options?",
+    "answer": "Part-time availability depends on program regulations."
+  },
+  {
+    "id": 91,
+    "category": "Academics",
+    "question": "What is the duration of each master’s program?",
+    "answer": "Master’s programs usually follow a standard duration of two years, depending on the credit requirements and academic load."
+  },
+  {
+    "id": 92,
+    "category": "Admissions",
+    "question": "Can I change my specialization after admission?",
+    "answer": "Changing your specialization is possible but depends on faculty approval, available seats, and meeting the academic prerequisites of the new track."
+  },
+  {
+    "id": 93,
+    "category": "Fees",
+    "question": "Are scholarships available for international students?",
+    "answer": "Yes. The university provides several scholarships, and international students may apply if they meet academic or merit-based criteria outlined in the scholarship policies."
+  },
+  {
+    "id": 94,
+    "category": "General",
+    "question": "Is there a student ID or library card system?",
+    "answer": "Yes. Students receive a university ID card, which is required for accessing facilities such as the library and campus"
+  },
+  {
+    "id": 95,
+    "category": "Admissions",
+    "question": "Can I apply for multiple programs at the same time?",
+    "answer": "Applicants may submit more than one application, but each program will evaluate the student independently."
+  },
+  {
+    "id": 96,
+    "category": "General",
+    "question": "Are there orientation sessions specifically for international students?",
+    "answer": "Yes. The university organizes orientation sessions for new and international students to get familiar with campus facilities, academic expectations, and support services."
+  },
+  {
+    "id": 97,
+    "category": "Admissions",
+    "question": "Can I switch my program after the first semester?",
+    "answer": "Program changes after the first semester are permitted but require approval and must comply with academic regulations and available capacity."
+  },
+  {
+    "id": 98,
+    "category": "Academics",
+    "question": "Are there minors or elective options?",
+    "answer": "Some programs offer electives and cross-department options. Availability depends on faculty regulations and course schedules."
+  },
+  {
+    "id": 99,
+    "category": "Academic Advising",
+    "question": "Are summer courses available?",
+    "answer": "Yes. The university offers summer courses depending on demand and faculty availability."
+  },
+  {
+    "id": 100,
+    "category": "General",
+    "question": "Are there gyms, sports, or recreational facilities?",
+    "answer": "Yes, the campus provides sports and recreational facilities. Students can access them using their university ID."
+  },
+  {
+    "id": 101,
+    "category": "Admissions",
+    "question": "What email should I use for admission-related questions?",
+    "answer": "admission@nu.edu.eg  For questions about applications, transfers, English test results, course equivalency, required documents, or next steps after submitting documents."
+  },
+  {
+    "id": 102,
+    "category": "IT & Systems",
+    "question": "Where do I email for purchasing, procurement, or supplier inquiries?",
+    "answer": "prvendors@nu.edu.eg “ For any client asking about purchases or suppliers."
+  },
+  {
+    "id": 103,
+    "category": "Emails",
+    "question": "What email is for financial matters for enrolled students?",
+    "answer": "finance@nu.edu.eg “ For questions about fees for students already enrolled at the university."
+  },
+  {
+    "id": 104,
+    "category": "Emails",
+    "question": "What email handles financial inquiries for non-enrolled students?",
+    "answer": "financialinquiries@nu.edu.eg  For non-enrolled students asking about first-year fees, first installment amounts, or sending payment proof."
+  },
+  {
+    "id": 105,
+    "category": "Emails",
+    "question": "Where do I inquire about scholarships and student funding?",
+    "answer": "scholarships@nu.edu.eg “ Specifically for scholarships."
+  },
+  {
+    "id": 106,
+    "category": "IT & Systems",
+    "question": "What email is for technical support?",
+    "answer": "itsupport@nu.edu.eg “ For problems with registering courses, filling applications, or registration issues."
+  },
+  {
+    "id": 107,
+    "category": "Emails",
+    "question": "How do I contact student affairs or registration?",
+    "answer": "ugregistrar@nu.edu.eg “ For student affairs, inquiring about results, or withdrawing documents from the faculty."
+  },
+  {
+    "id": 108,
+    "category": "Admissions",
+    "question": "Where do I apply for jobs at Nile University?",
+    "answer": "careers@nu.edu.eg “ For job opportunities."
+  },
+  {
+    "id": 109,
+    "category": "Emails",
+    "question": "What email is for research, competitions, or writing about the university?",
+    "answer": "Research.forum@nu.edu.eg “ For scientific research or competitions."
+  },
+  {
+    "id": 110,
+    "category": "Emails",
+    "question": "How do I contact for details on the Executive MBA program?",
+    "answer": "Emba@nu.edu.eg “ contact ms. menna el sayed at meelsayed@nu.edu.eg first for unclear details.. For Nile University students, this information is governed by official university policies and procedures. Students are advised to follow the formal process announced by the university and consult the relevant academic or administrative office when clarification is needed."
+  },
+  {
+    "id": 111,
+    "category": "Emails",
+    "question": "What email is for medical affairs or health services?",
+    "answer": "clinic@nu.edu.eg “ For medical insurance in case of student illness."
+  },
+  {
+    "id": 112,
+    "category": "Emails",
+    "question": "Where do I inquire about the Graduate School of Management of Technology (MOT)?",
+    "answer": "Nemam@nu.edu.eg “ contact ms. noran emam for unclear details about mot.. For Nile University students, this information is governed by official university policies and procedures. Students are advised to follow the formal process announced by the university and consult the relevant academic or administrative office when clarification is needed."
+  },
+  {
+    "id": 113,
+    "category": "Emails",
+    "question": "How do I rent a theater or conference hall at the university?",
+    "answer": "delsafady@nu.edu.eg “ For renting conference halls or theaters."
+  },
+  {
+    "id": 114,
+    "category": "Emails",
+    "question": "What email handles non-academic issues?",
+    "answer": "gmowafy@nu.edu.eg “ Visit Ms. Gina Mowafy's office for non-academic problems."
+  },
+  {
+    "id": 115,
+    "category": "General",
+    "question": "Where do I contact for school memberships, visits, or deals?",
+    "answer": "hosama@nu.edu.eg or 01115922295 “ For teachers organizing university visits."
+  },
+  {
+    "id": 116,
+    "category": "Fees",
+    "question": "How do I request a payment refund?",
+    "answer": "mzayed@nu.edu.eg “ Note: Application and placement test fees are non-refundable."
+  },
+  {
+    "id": 117,
+    "category": "Emails",
+    "question": "What email is for continuing education programs?",
+    "answer": "Nusce@nu.edu.eg or 01015000820; also check www.facebook.com/nupce “ response within 48 business hours.. For Nile University students, this information is governed by official university policies and procedures. Students are advised to follow the formal process announced by the university and consult the relevant academic or administrative office when clarification is needed."
+  },
+  {
+    "id": 118,
+    "category": "Emails",
+    "question": "What email is for bus inquiries?",
+    "answer": "kamohamed@nu.edu.eg “ For bus lines and transfers."
+  },
+  {
+    "id": 119,
+    "category": "Admissions",
+    "question": "What is the minimum GPA for acceptance with an American Diploma?",
+    "answer": "Nile University accepts a minimum cumulative GPA of 2.0 (on a 4.0 scale)."
+  },
+  {
+    "id": 120,
+    "category": "Admissions",
+    "question": "What subjects are required for Engineering/ITCS with American Diploma?",
+    "answer": "8 subjects from GPA including English, Math, Physics, Chemistry, plus EST 1 (min 800) and EST 2 (min 900). EST 1 alone is accepted if the student has AL Math, requiring 9 GPA subjects."
+  },
+  {
+    "id": 121,
+    "category": "Admissions",
+    "question": "What subjects are required for Business with American Diploma?",
+    "answer": "8 subjects from GPA including English, plus EST 1 (min 800)."
+  },
+  {
+    "id": 122,
+    "category": "Admissions",
+    "question": "What subjects are required for Biotechnology with American Diploma?",
+    "answer": "8 subjects from GPA including English, Math, Physics, Chemistry, Biology, plus EST 1 (min 800)."
+  },
+  {
+    "id": 123,
+    "category": "Admissions",
+    "question": "What documents are needed for American Diploma applicants?",
+    "answer": "Official GPA certificate (grades 10-12) stamped by American Diploma accreditation partners and General Exams Department. AMIDEAST accreditation letter. Stamped EST 1/2. Arabic/Religion if taken. EST/ACT username/password. Proof of 12 years schooling. Original birth certificate. National ID copy. Passport copy. 6 passport photos. Forms 2 and 6 Jund (males only). Movement certificate for students studied abroad."
+  },
+  {
+    "id": 124,
+    "category": "Admissions",
+    "question": "What are the general requirements for British Certificate?",
+    "answer": "Applicants must submit certificates from 8 O-level subjects with a grade no less than C, completed within the last four years."
+  },
+  {
+    "id": 125,
+    "category": "Admissions",
+    "question": "What subjects are required for Engineering/ITCS with British Certificate?",
+    "answer": "At least 8 O-level subjects including English, Math, Physics, Chemistry (min C), plus one AS or AL subject in Math (min D)."
+  },
+  {
+    "id": 126,
+    "category": "Admissions",
+    "question": "What subjects are required for Business with British Certificate?",
+    "answer": "At least 8 O-level subjects including English (min C)."
+  },
+  {
+    "id": 127,
+    "category": "Admissions",
+    "question": "What subjects are required for Biotechnology with British Certificate?",
+    "answer": "At least 8 O-level subjects including English, Math, Physics, Chemistry, Biology (min C)."
+  },
+  {
+    "id": 128,
+    "category": "Admissions",
+    "question": "What documents are needed for British Certificate applicants?",
+    "answer": "Official IGCSE certificates stamped by British Council, Foreign Ministry, and General Exams Department. Arabic/Religion if taken. Proof of 12 years schooling. Original birth certificate. National ID copy. Passport copy. 6 passport photos. Forms 2 and 6 Jund (males). Movement certificate for abroad studies."
+  },
+  {
+    "id": 129,
+    "category": "Admissions",
+    "question": "What is the minimum for German Certificate (Abitur)?",
+    "answer": "Minimum 4.0; transfer credits possible. For Engineering/ITCS: English, Math, Physics, Chemistry required. 7 subjects in G11/G12, at least 3 advanced level."
+  },
+  {
+    "id": 130,
+    "category": "Admissions",
+    "question": "What is the minimum for French Certificate (BaccalaurÃ©at)?",
+    "answer": "Minimum average 'acceptable' grade. For Engineering: English, Math, Physics, Chemistry required."
+  },
+  {
+    "id": 131,
+    "category": "Admissions",
+    "question": "What documents are needed for French or German Certificates?",
+    "answer": "Official French BaccalaurÃ©at or German Abitur. Arabic/Religion if taken. Proof of 12 years schooling. Original birth certificate. National ID copy. Passport copy. 6 passport photos. Forms 2 and 6/7 Jund (males). Movement certificate for abroad."
+  },
+  {
+    "id": 132,
+    "category": "Admissions",
+    "question": "What subjects are required for Engineering/ITCS with Canadian Diploma?",
+    "answer": "English, Math, Physics, Chemistry; Math in both G11 and G12."
+  },
+  {
+    "id": 133,
+    "category": "Admissions",
+    "question": "What subjects are required for Business with Canadian Diploma?",
+    "answer": "English, math.. For Nile University students, this information is governed by official university policies and procedures. Students are advised to follow the formal process announced by the university and consult the relevant academic or administrative office when clarification is needed."
+  },
+  {
+    "id": 134,
+    "category": "Admissions",
+    "question": "What subjects are required for Biotechnology with Canadian Diploma?",
+    "answer": "English, Math, Biology; Biology in both G11 and G12."
+  },
+  {
+    "id": 135,
+    "category": "Admissions",
+    "question": "What documents are needed for Canadian Diploma?",
+    "answer": "Official Canadian Diploma. Arabic/Religion if taken. Proof of 12 years schooling. Original birth certificate. National ID copy. Passport copy. 6 passport photos. Forms 2 and 6/7 Jund (males). Movement certificate for abroad."
+  },
+  {
+    "id": 136,
+    "category": "Admissions",
+    "question": "What subjects are required for Engineering/ITCS in Nile Schools?",
+    "answer": "7 L1 subjects including English, Math, Arabic, Physics, Chemistry, plus 2 L2 subjects including Math with Biology/Physics/Chemistry, or 1 L3 Math."
+  },
+  {
+    "id": 137,
+    "category": "Admissions",
+    "question": "What subjects are required for Business in Nile Schools?",
+    "answer": "7 L1 subjects including English, Math, Arabic."
+  },
+  {
+    "id": 138,
+    "category": "Admissions",
+    "question": "What subjects are required for Biotechnology in Nile Schools?",
+    "answer": "7 L1 subjects including English, Math, Physics, Chemistry, Biology, Arabic, plus 2 L2 subjects including Biology with Physics/Chemistry/Math, or 1 L3 Biology."
+  },
+  {
+    "id": 139,
+    "category": "Admissions",
+    "question": "What documents are needed for Nile Schools?",
+    "answer": "Official Nile certificates stamped by Nile School, Ministry of Education, and General Director. Arabic/Religion if taken. Proof of 12 years. Original birth certificate. National ID copy. Passport copy. 6 photos. Forms 2 and 6/7 Jund."
+  },
+  {
+    "id": 140,
+    "category": "Admissions",
+    "question": "What is the calculation for STEM schools?",
+    "answer": "Final score out of 700. Accepted in Engineering/ITCS/Biotechnology (scientific section), Business (literary or scientific). STEM factor is 1.25 multiplied by student's total, final out of 700."
+  },
+  {
+    "id": 141,
+    "category": "Admissions",
+    "question": "What documents are needed for STEM?",
+    "answer": "Official STEM or Azhar secondary certificate. Original birth certificate. National ID copy. Passport copy. 6 photos. Forms 2 and 6/7 Jund."
+  },
+  {
+    "id": 142,
+    "category": "Admissions",
+    "question": "What are the general requirements for IB?",
+    "answer": "Completed IB certificate meeting general requirements. 6 subjects: 3 higher level, 3 standard level. Minimum admission points: 24."
+  },
+  {
+    "id": 143,
+    "category": "Admissions",
+    "question": "What subjects are required for Engineering/ITCS with IB?",
+    "answer": "Math and Physics at higher level."
+  },
+  {
+    "id": 144,
+    "category": "Admissions",
+    "question": "What subjects are required for Business with IB?",
+    "answer": "Any 3 higher level plus standard level."
+  },
+  {
+    "id": 145,
+    "category": "Admissions",
+    "question": "What subjects are required for Biotechnology with IB?",
+    "answer": "Chemistry and Biology at higher level."
+  },
+  {
+    "id": 146,
+    "category": "Admissions",
+    "question": "What documents are needed for IB?",
+    "answer": "Official IB certificates. Arabic/Religion if taken. Proof of 12 years. Original birth certificate. National ID copy. Passport copy. 6 photos. Forms 2 and 6/7 Jund. Movement certificate for abroad."
+  },
+  {
+    "id": 147,
+    "category": "Admissions",
+    "question": "What is the calculation for Azhar Certificate?",
+    "answer": "Final score out of 440 (scientific) or 420 (literary), after deducting religious subjects."
+  },
+  {
+    "id": 148,
+    "category": "Admissions",
+    "question": "What documents are needed for Egyptian/Azhar/Arabic Secondary?",
+    "answer": "Original secondary certificate. Original birth certificate. 6 personal photos. National ID copy. Passport copy for non-Egyptians. Forms 2 and 6/7 Jund (males)."
+  },
+  {
+    "id": 149,
+    "category": "Academics",
+    "question": "What English test scores are required?",
+    "answer": "TOEFL IBT 61+ or IELTS Academic 6+."
+  },
+  {
+    "id": 150,
+    "category": "Fees",
+    "question": "What are the bus fees for October line?",
+    "answer": "4500 egp per semester.. For Nile University students, this information is governed by official university policies and procedures. Students are advised to follow the formal process announced by the university and consult the relevant academic or administrative office when clarification is needed."
+  },
+  {
+    "id": 151,
+    "category": "Fees",
+    "question": "What are the bus fees for Hadayek El Ahram?",
+    "answer": "5000 egp per semester.. For Nile University students, this information is governed by official university policies and procedures. Students are advised to follow the formal process announced by the university and consult the relevant academic or administrative office when clarification is needed."
+  },
+  {
+    "id": 152,
+    "category": "Fees",
+    "question": "What are the bus fees for Mohandeseen, Imbaba, Zamalek, Giza, Haram?",
+    "answer": "6000 egp per semester.. For Nile University students, this information is governed by official university policies and procedures. Students are advised to follow the formal process announced by the university and consult the relevant academic or administrative office when clarification is needed."
+  },
+  {
+    "id": 153,
+    "category": "Fees",
+    "question": "What are the bus fees for Manial, Abbassia, Ghamra, Maadi?",
+    "answer": "6500 egp per semester.. For Nile University students, this information is governed by official university policies and procedures. Students are advised to follow the formal process announced by the university and consult the relevant academic or administrative office when clarification is needed."
+  },
+  {
+    "id": 154,
+    "category": "Fees",
+    "question": "What are the bus fees for Mokattam, Gesr El Suez?",
+    "answer": "7000 egp per semester.. For Nile University students, this information is governed by official university policies and procedures. Students are advised to follow the formal process announced by the university and consult the relevant academic or administrative office when clarification is needed."
+  },
+  {
+    "id": 155,
+    "category": "Fees",
+    "question": "What are the bus fees for Heliopolis, Nasr City, Helwan, May?",
+    "answer": "7500 egp per semester.. For Nile University students, this information is governed by official university policies and procedures. Students are advised to follow the formal process announced by the university and consult the relevant academic or administrative office when clarification is needed."
+  },
+  {
+    "id": 156,
+    "category": "Fees",
+    "question": "What are the bus fees for Rehab, Tagamo?",
+    "answer": "8000 egp per semester.. For Nile University students, this information is governed by official university policies and procedures. Students are advised to follow the formal process announced by the university and consult the relevant academic or administrative office when clarification is needed."
+  },
+  {
+    "id": 157,
+    "category": "Admissions",
+    "question": "What is the minimum acceptance percentage for Business Administration (Egyptian/Azhar/STEM)?",
+    "answer": "0.53. For Nile University students, this information is governed by official university policies and procedures. Students are advised to follow the formal process announced by the university and consult the relevant academic or administrative office when clarification is needed."
+  },
+  {
+    "id": 158,
+    "category": "Admissions",
+    "question": "What is the minimum for Business (foreign/Arabic/5-year industrial diploma)?",
+    "answer": "0.58. For Nile University students, this information is governed by official university policies and procedures. Students are advised to follow the formal process announced by the university and consult the relevant academic or administrative office when clarification is needed."
+  },
+  {
+    "id": 159,
+    "category": "Admissions",
+    "question": "What is the minimum for Biotechnology (Egyptian/Azhar/STEM)?",
+    "answer": "0.53. For Nile University students, this information is governed by official university policies and procedures. Students are advised to follow the formal process announced by the university and consult the relevant academic or administrative office when clarification is needed."
+  },
+  {
+    "id": 160,
+    "category": "Admissions",
+    "question": "What is the minimum for Biotechnology (foreign)?",
+    "answer": "0.58. For Nile University students, this information is governed by official university policies and procedures. Students are advised to follow the formal process announced by the university and consult the relevant academic or administrative office when clarification is needed."
+  },
+  {
+    "id": 161,
+    "category": "Admissions",
+    "question": "What is the minimum for Engineering and Applied Sciences (Egyptian/STEM)?",
+    "answer": "0.68. For Nile University students, this information is governed by official university policies and procedures. Students are advised to follow the formal process announced by the university and consult the relevant academic or administrative office when clarification is needed."
+  },
+  {
+    "id": 162,
+    "category": "Admissions",
+    "question": "What is the minimum for Engineering (foreign)?",
+    "answer": "0.7. For Nile University students, this information is governed by official university policies and procedures. Students are advised to follow the formal process announced by the university and consult the relevant academic or administrative office when clarification is needed."
+  },
+  {
+    "id": 163,
+    "category": "Admissions",
+    "question": "What is the minimum for IT and Computer Science (Egyptian/STEM)?",
+    "answer": "0.6. For Nile University students, this information is governed by official university policies and procedures. Students are advised to follow the formal process announced by the university and consult the relevant academic or administrative office when clarification is needed."
+  },
+  {
+    "id": 164,
+    "category": "Admissions",
+    "question": "What is the minimum for ITCS (foreign)?",
+    "answer": "0.65. For Nile University students, this information is governed by official university policies and procedures. Students are advised to follow the formal process announced by the university and consult the relevant academic or administrative office when clarification is needed."
+  },
+  {
+    "id": 165,
+    "category": "Fees",
+    "question": "What are the fees for Egyptian students in Business Administration?",
+    "answer": "123,250 EGP (paid in 4 installments; amounts determined by accounts)."
+  },
+  {
+    "id": 166,
+    "category": "Fees",
+    "question": "What are the fees for international students in Business?",
+    "answer": "4.667 usd. For Nile University students, this information is governed by official university policies and procedures. Students are advised to follow the formal process announced by the university and consult the relevant academic or administrative office when clarification is needed."
+  },
+  {
+    "id": 167,
+    "category": "Fees",
+    "question": "Fees for Egyptians in Biotechnology?",
+    "answer": "152,950 egp. For Nile University students, this information is governed by official university policies and procedures. Students are advised to follow the formal process announced by the university and consult the relevant academic or administrative office when clarification is needed."
+  },
+  {
+    "id": 168,
+    "category": "Fees",
+    "question": "Fees for internationals in Biotechnology?",
+    "answer": "5.625 usd. For Nile University students, this information is governed by official university policies and procedures. Students are advised to follow the formal process announced by the university and consult the relevant academic or administrative office when clarification is needed."
+  },
+  {
+    "id": 169,
+    "category": "Fees",
+    "question": "Fees for Egyptians in Engineering/ITCS?",
+    "answer": "165,600 egp. For Nile University students, this information is governed by official university policies and procedures. Students are advised to follow the formal process announced by the university and consult the relevant academic or administrative office when clarification is needed."
+  },
+  {
+    "id": 170,
+    "category": "Fees",
+    "question": "Fees for internationals in Engineering/ITCS?",
+    "answer": "6.042 usd. For Nile University students, this information is governed by official university policies and procedures. Students are advised to follow the formal process announced by the university and consult the relevant academic or administrative office when clarification is needed."
+  },
+  {
+    "id": 171,
+    "category": "Admissions",
+    "question": "What specializations are in School of Business Administration?",
+    "answer": "Finance, Management, Supply Chain and Logistics, Integrated Marketing Communications. Specialization after 3 semesters. Duration: 8 semesters (7 for top students)."
+  },
+  {
+    "id": 172,
+    "category": "Admissions",
+    "question": "What specializations are in School of Biotechnology?",
+    "answer": "Applied Biotechnology, Bioinformatics. Specialization in year 3. Duration: 8 semesters."
+  },
+  {
+    "id": 173,
+    "category": "Admissions",
+    "question": "What specializations are in School of Engineering and Applied Sciences?",
+    "answer": "Electronics and Computer Engineering, Mechanical Engineering, Industrial Engineering, Civil and Construction Engineering, Architecture and Urban Design. Specialization from year 1. Duration: 8 semesters."
+  },
+  {
+    "id": 174,
+    "category": "Admissions",
+    "question": "What specializations are in School of IT and Computer Science?",
+    "answer": "Artificial Intelligence, Biomedical Informatics, Computer Science, Cybersecurity. Specialization from year 1. Duration: 8 semesters."
+  },
+  {
+    "id": 175,
+    "category": "Admissions",
+    "question": "What is the university address and student affairs hours?",
+    "answer": "Juhayna Square, 26th of July Axis, Sheikh Zayed, Giza. Student affairs: Sunday-Thursday, 9 AM to 4 PM."
+  },
+  {
+    "id": 176,
+    "category": "General",
+    "question": "Is Nile University accredited?",
+    "answer": "Yes, private university accredited by the Supreme Council of Universities. Degrees recognized locally and internationally. Founded in 2007, current acting president: Dr. Essam Rushdy."
+  },
+  {
+    "id": 177,
+    "category": "Admissions",
+    "question": "How do I apply to Nile University?",
+    "answer": "Visit the website, fill application (1500 EGP non-refundable). If no TOEFL/IELTS, university sends English test (500 EGP, results same day). Submit documents 5-7 business days later."
+  },
+  {
+    "id": 178,
+    "category": "Admissions",
+    "question": "Are scholarships available for 5-year industrial diplomas?",
+    "answer": "Unfortunately, no.. For Nile University students, this information is governed by official university policies and procedures. Students are advised to follow the formal process announced by the university and consult the relevant academic or administrative office when clarification is needed."
+  },
+  {
+    "id": 179,
+    "category": "Admissions",
+    "question": "Does the university accept EST or ACT?",
+    "answer": "Yes, acceptance based on EST or ACT system."
+  },
+  {
+    "id": 180,
+    "category": "Admissions",
+    "question": "How do foreign students apply?",
+    "answer": "Via https://nu.edu.eg/. For Nile University students, this information is governed by official university policies and procedures. Students are advised to follow the formal process announced by the university and consult the relevant academic or administrative office when clarification is needed."
+  },
+  {
+    "id": 181,
+    "category": "General",
+    "question": "How does a student withdraw documents?",
+    "answer": "Contact ugregistrar@nu.edu.eg. For Nile University students, this information is governed by official university policies and procedures. Students are advised to follow the formal process announced by the university and consult the relevant academic or administrative office when clarification is needed."
+  },
+  {
+    "id": 182,
+    "category": "Academics",
+    "question": "What is the minimum grade for AS/A Level subjects?",
+    "answer": "Minimum d.. For Nile University students, this information is governed by official university policies and procedures. Students are advised to follow the formal process announced by the university and consult the relevant academic or administrative office when clarification is needed."
+  },
+  {
+    "id": 183,
+    "category": "Admissions",
+    "question": "Is there an aptitude test for Engineering departments?",
+    "answer": "Math placement test for all Engineering/ITCS. Interview with department head for Architecture."
+  },
+  {
+    "id": 184,
+    "category": "Admissions",
+    "question": "Does the university accept 5-year or 3-year industrial schools?",
+    "answer": "Yes for 5-year (Engineering only); no for 3-year."
+  },
+  {
+    "id": 185,
+    "category": "Admissions",
+    "question": "Is online education available?",
+    "answer": "Not currently.. For Nile University students, this information is governed by official university policies and procedures. Students are advised to follow the formal process announced by the university and consult the relevant academic or administrative office when clarification is needed."
+  },
+  {
+    "id": 186,
+    "category": "Admissions",
+    "question": "Does the university accept Azhar schools?",
+    "answer": "Yes.. For Nile University students, this information is governed by official university policies and procedures. Students are advised to follow the formal process announced by the university and consult the relevant academic or administrative office when clarification is needed."
+  },
+  {
+    "id": 187,
+    "category": "Admissions",
+    "question": "What IELTS type is accepted?",
+    "answer": "Academic ielts.. For Nile University students, this information is governed by official university policies and procedures. Students are advised to follow the formal process announced by the university and consult the relevant academic or administrative office when clarification is needed."
+  },
+  {
+    "id": 188,
+    "category": "Fees",
+    "question": "Are fees for international/Arab students in USD or EGP?",
+    "answer": "In USD, paid in USD."
+  },
+  {
+    "id": 189,
+    "category": "Academic Advising",
+    "question": "Is course registration online or in-person?",
+    "answer": "Online.. For Nile University students, this information is governed by official university policies and procedures. Students are advised to follow the formal process announced by the university and consult the relevant academic or administrative office when clarification is needed."
+  },
+  {
+    "id": 190,
+    "category": "Admissions",
+    "question": "Can I do multiple applications for different faculties?",
+    "answer": "No, one application with preferences. Change via admission@nu.edu.eg."
+  },
+  {
+    "id": 191,
+    "category": "Fees",
+    "question": "Are fees fixed or increase yearly?",
+    "answer": "There is an annual increase."
+  },
+  {
+    "id": 192,
+    "category": "Admissions",
+    "question": "Can I edit the application after submission?",
+    "answer": "Not editable, but possible via admission@nu.edu.eg."
+  },
+  {
+    "id": 193,
+    "category": "General",
+    "question": "Is there student housing?",
+    "answer": "No.. For Nile University students, this information is governed by official university policies and procedures. Students are advised to follow the formal process announced by the university and consult the relevant academic or administrative office when clarification is needed."
+  },
+  {
+    "id": 194,
+    "category": "Fees",
+    "question": "Can fees be paid cash at university?",
+    "answer": "Yes, online, Fawry branches, or university Fawry branch."
+  },
+  {
+    "id": 195,
+    "category": "Academic Advising",
+    "question": "What is the EF English program?",
+    "answer": "Nile University offers 3 course packages for various needs, priced 175-600 EGP/month. Visit http://englishnu.com/benefits/ for details."
+  },
+  {
+    "id": 196,
+    "category": "Academic Advising",
+    "question": "How many levels in EF English?",
+    "answer": "16 levels, from beginner to professional."
+  },
+  {
+    "id": 197,
+    "category": "Academic Advising",
+    "question": "What are the benefits of EF English?",
+    "answer": "Amazing learning experience: anytime, any device, 24/7. Certified international teachers; most advanced online English school globally recognized."
+  },
+  {
+    "id": 198,
+    "category": "Fees",
+    "question": "Is the EF certificate accredited?",
+    "answer": "Internationally recognized, but does not replace TOEFL/IELTS; prepares for them."
+  },
+  {
+    "id": 199,
+    "category": "Admissions",
+    "question": "What graduate programs in School of Business Administration?",
+    "answer": "Executive mba.. For Nile University students, this information is governed by official university policies and procedures. Students are advised to follow the formal process announced by the university and consult the relevant academic or administrative office when clarification is needed."
+  },
+  {
+    "id": 200,
+    "category": "Admissions",
+    "question": "Graduate programs in School of Biotechnology?",
+    "answer": "MSc in Applied Biotechnology; MSc in Bioinformatics."
+  },
+  {
+    "id": 201,
+    "category": "Admissions",
+    "question": "Graduate programs in School of Engineering and Applied Sciences?",
+    "answer": "MSc in Mechatronics Engineering; MSc in Microelectronics Systems Design; Professional MSc in Microelectronics Systems Design."
+  },
+  {
+    "id": 202,
+    "category": "Admissions",
+    "question": "Graduate programs in School of IT and Computer Science?",
+    "answer": "MSc in Communications and Information Technology; MSc in IT and Computer Science; PhD in ITCS with Informatics, Information Security, and Software Engineering tracks."
+  }
+]

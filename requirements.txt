@@ -1,0 +1,6 @@
+langchain>=0.0.300
+chromadb>=0.3.28
+requests>=2.28
+python-dotenv>=1.0
+rich>=13.3
+ollama>=0.1.0
