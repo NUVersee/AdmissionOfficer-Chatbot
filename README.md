@@ -206,14 +206,8 @@ User Question
   ↓
 Display Answer to User
 ```
-
----
-
-## 📝 License
-
-This project is provided as-is for educational and institutional use.
-
 ---
 
 **Last Updated:** December 2025  
 **Version:** 1.0
+
